@@ -147,6 +147,7 @@ export default function Home() {
 
             <div style={{width: "100%", marginTop: 66, height: "1px", backgroundColor: "#000"}}></div>
             <p>collect ingredients with your friends, local co-op multiplayer, use your ingredients you find along your journeys to serve patrons at your curry house!</p>
+            <p>Use WASD & Arrow Keys for Movement. Use E & L to pickup each other and jump off at the right time to launch into the air. Use left shift and right shift to pull the rope in the way of your character.</p>
           </div>
         </div>
       </div>
