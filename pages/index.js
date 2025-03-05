@@ -98,8 +98,10 @@ export default function Home() {
               height: '128px',
               position: 'relative',
               overflow: 'visible',
+              
             }}
           >
+            <div style={{width: "100%", height: "1px", backgroundColor:"#000", position: "absolute", top: 64}}></div>
             {/* Tompo sprite */}
             <div style={{
               width: 64,
